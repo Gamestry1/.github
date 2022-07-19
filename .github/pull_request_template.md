@@ -1,7 +1,7 @@
 ### :bookmark: Link your task
-<!-- E.g [PDT-131](https://https://gamestry.atlassian.net/browse/PDT-131) -->
+<!-- E.g [PDT-131](https://gamestry.atlassian.net/browse/PDT-131) -->
 
-- **Ticket:**
+- **Ticket:** [PDT-X](https://gamestry.atlassian.net/browse/PDT-X)
 
 ### :memo: Add a description
 <!-- Provide a description of the goal and the implementation. -->
